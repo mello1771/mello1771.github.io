@@ -9,3 +9,5 @@ what i struggled with: i had an issue in javascript when i wanted to update the 
 what i learned: i learned that i needed to be meticulous when debugging to spot any spelling errors because they can mess up the whole program. i also learned that i should be creative when programming, even when it's a simple project!
 
 by chloe :)
+
+[![Athena Award Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Faward.athena.hackclub.com%2Fapi%2Fbadge)](https://award.athena.hackclub.com?utm_source=readme)
